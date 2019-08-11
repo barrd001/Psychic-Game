@@ -1,0 +1,63 @@
+body {
+    background-image: url("../images/curtains.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 78px;
+    
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#masthead {
+    background: purple;
+    color: gold;
+    width: 930px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+   
+}
+
+#main-container {
+    height: 500px;
+    width: 100%;
+}
+#psychic {
+    display: inline-block;
+}
+#teller {
+    background-image: url("../images/fortuneteller.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    width: 400px;
+    float: left;
+    margin-right: 10px;
+}
+#directions-text {
+    background: white;
+    color: black;
+    height: 200px;
+    width: 500px;
+    border-radius: 50px 50px 50px 5px;
+    float: right;
+    
+}
+
+.container {
+    clear: both;
+}
